@@ -1,8 +1,6 @@
 # Autor:Marlon H. Tavares
 # Data:20/06/2022
-# Empresa: Infox Tecnologia
-# Produto: FWCARD -> Base HOM
-# Descrição: teste para validar o acesso de login do operador.
+# DescriÃ§Ã£o: teste para validar o acesso de login do operador.
 
 Feature: Teste da funcionalidade de login
 
