@@ -1,8 +1,6 @@
 # Autor:Marlon H. Tavares
 # Data:25/06/2022
-# Empresa: Infox Tecnologia
-# Produto: FWCARD -> Base HOM
-# Descrição: teste para validar o cadastro de um usuário.
+# DescriÃ§Ã£o: teste para validar o cadastro de um usuÃ¡rio.
 
 Feature: Cadastro de usuario
 
