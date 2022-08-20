@@ -1,8 +1,6 @@
 # Autor:Marlon H. Tavares
 # Data:20/06/2022
-# Empresa: Infox Tecnologia
-# Produto: FWCARD -> Base HOM
-# Descrição: teste para validar venda.
+# DescriÃ§Ã£o: teste para validar venda.
 
 Feature: Realizar venda manual
 
